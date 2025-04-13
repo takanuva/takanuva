@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there, I'm Paulo Torrens 👋
+================================================================================
 
-<!--
-**takanuva/takanuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="200px" src="./takanuva.jpg"/>
 
-Here are some ideas to get you started:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum
+imperdiet tellus, non malesuada ante molestie cursus. Etiam eu ex velit.
+Vestibulum in arcu eget ligula luctus faucibus. Mauris eget elementum magna.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat.
+Aenean a maximus nulla.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------
+
+<img align="right" width="200px" src="./bike.png" alt="I am Takanuva, the Toa of light!"/>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum
+imperdiet tellus, non malesuada ante molestie cursus. Etiam eu ex velit.
+Vestibulum in arcu eget ligula luctus faucibus. Mauris eget elementum magna.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat.
+Aenean a maximus nulla.
